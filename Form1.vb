@@ -1,7 +1,7 @@
 ﻿Public Class Form1
 
     Private Sub btnCalculate_Click(sender As Object, e As EventArgs) Handles btnCalculate.Click
-        ' deklarasi variabel
+        ' deklarasi variabel'
         Dim hours As Integer
         Dim payrate As Integer
         Dim basic As Integer
