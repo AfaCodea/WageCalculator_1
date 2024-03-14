@@ -106,7 +106,7 @@ Partial Class Form1
         ' Label5
         ' 
         Label5.AutoSize = True
-        Label5.Location = New Point(139, 200)
+        Label5.Location = New Point(138, 203)
         Label5.Name = "Label5"
         Label5.Size = New Size(67, 15)
         Label5.TabIndex = 8
@@ -121,7 +121,7 @@ Partial Class Form1
         ' 
         ' tbExtraWage
         ' 
-        tbExtraWage.Location = New Point(248, 195)
+        tbExtraWage.Location = New Point(248, 200)
         tbExtraWage.Name = "tbExtraWage"
         tbExtraWage.Size = New Size(100, 23)
         tbExtraWage.TabIndex = 10

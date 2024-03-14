@@ -20,7 +20,7 @@
             grossPay = hours * payrate
 
         Else
-            ' calculate overtime
+            ' calculate overtime '
             Dim regularHours As Integer = 40
             Dim overtimeHours As Integer = hours - regularHours
             Dim overtimePayrate As Double = payrate * 1.1 '10% increase for overtime 
